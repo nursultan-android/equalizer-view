@@ -20,5 +20,7 @@ public class MainActivity extends AppCompatActivity {
         eq.setDuration(5000);
         eq.setForegroundColor(getColor(R.color.dark_blue));
         eq.animateBars();
+
+
     }
 }
