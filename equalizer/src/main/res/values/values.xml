@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="EqualizerView">
+        <attr format="reference" name="column_color"/>
+        <attr format="reference" name="column_drawable"/>
+        <attr format="integer" name="anim_duration"/>
+        <attr format="dimension" name="column_width"/>
+    </declare-styleable>
+</resources>

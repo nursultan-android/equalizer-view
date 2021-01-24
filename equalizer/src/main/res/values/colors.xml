@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="turquoise">#1da3b1</color>
+    <color name="turquoiseDark">#0b8592</color>
+    <color name="colorAccent">#ff833e</color>
+    <color name="orange">#ff833e</color>
+    <color name="orangeBack">#80ff833e</color>
+    <color name="orange1">#ff6f1e</color>
+    <color name="done">#0E9824</color>
+    <color name="doneBack">#480E9824</color>
+    <color name="gray3">#5A5A5E</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="yellow">#f2ca20</color>
+    <color name="gray">#d4d4d4</color>
+    <color name="gray_text">#D9D9D9</color>
+    <color name="gray_back">#EEEFF3</color>
+    <color name="gray_sep">#DADADA</color>
+    <color name="transparent">#11ffffff</color>
+    <color name="gray_player">#9b9b9b</color>
+    <color name="gray2">#fafafa</color>
+    <color name="camera">#e2ecf2</color>
+    <color name="dark_blue">#3071be</color>
+    <color name="gray_dark">#979797</color>
+    <color name="black_shadow">#464646</color>
+    <color name="violat_splash">#b16eff</color>
+    <color name="light_blue">#03A9F4</color>
+    <color name="zoom_text">#CACACA</color>
+
+    <color name="color1">#FFFF7D10</color>
+    <color name="color2">#FFE66900</color>
+    <color name="color3">#FFF0730B</color>
+    <color name="color4">#FF833E</color>
+    <color name="selected_category">#FFD2B9</color>
+    <color name="orange_register">#FFCAAC</color>
+    <color name="color5">#FFFFFF</color>
+    <color name="color6">#FFED6E05</color>
+    <color name="color7">#FFFFFFFF</color>
+    <color name="color8">#F9FF2510</color>
+    <color name="red">#ff1744</color>
+
+    <color name="popular_bool_background">#C2E8ED</color>
+    <color name="all_font_color">#A9A9B3</color>
+    <color name="recommend_bool_background">#F4F4F4</color>
+    <color name="menu_font_color">#B1B1B1</color>
+    <color name="pod_cast_font_color">#4A4A4A</color>
+    <color name="pod_cast_stroke_color">#DBD5D5</color>
+    <color name="pod_cast_gray_color">#D2D1D1</color>
+    <color name="audio_gray_color">#9D9D9D</color>
+
+    <color name="transparent_black">#11000000</color>
+    <color name="profile_background_color">#FAFAFA</color>
+    <color name="gray_line">#EFEEEE</color>
+    <color name="gray_line_text">#C7C5C5</color>
+    <color name="register_button_color">#7E7E7E</color>
+    <color name="played_pod_cast_back">#F5F5F5</color>
+    <color name="register_background_button">#112F41</color>
+    <color name="main_tab_color">#414141</color>
+    <color name="main_tab_search">#F2F2F2</color>
+
+    <color name="dialog_line">#E8E8E8</color>
+    <color name="player_progress_background_color">#E4E4E6</color>
+    <color name="forget_gray_color">#D8D8D8</color>
+    <color name="pod_cast_gray_line">#D5D6DB</color>
+
+    <color name="comment_color_1">#BC5D58</color>
+    <color name="comment_color_2">#BC9458</color>
+    <color name="comment_color_3">#BCB858</color>
+    <color name="comment_color_4">#9CBC58</color>
+    <color name="comment_color_5">#58BC80</color>
+    <color name="comment_color_6">#58BCB6</color>
+    <color name="comment_color_7">#5898BC</color>
+    <color name="comment_color_8">#5874BC</color>
+    <color name="comment_color_9">#9058BC</color>
+    <color name="comment_color_0">#BC589A</color>
+</resources>
